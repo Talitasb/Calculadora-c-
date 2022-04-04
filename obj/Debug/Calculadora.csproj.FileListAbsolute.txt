@@ -1,0 +1,10 @@
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\talit\OneDrive\Área de Trabalho\Revisão - c#\Calculadora\obj\Debug\Calculadora.pdb
